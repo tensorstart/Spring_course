@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" filepath="$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-ioc-homework/ch03-ioc-homework.iml" filepath="$PROJECT_DIR$/ch03-ioc-homework/ch03-ioc-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-di-xml2/ch04-di-xml2.iml" filepath="$PROJECT_DIR$/ch04-di-xml2/ch04-di-xml2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-di-anno/ch05-di-anno.iml" filepath="$PROJECT_DIR$/ch05-di-anno/ch05-di-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-aop-leadin/ch06-aop-leadin.iml" filepath="$PROJECT_DIR$/ch06-aop-leadin/ch06-aop-leadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-aop-aspectj/ch07-aop-aspectj.iml" filepath="$PROJECT_DIR$/ch07-aop-aspectj/ch07-aop-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-aop-aspectj1/ch08-aop-aspectj1.iml" filepath="$PROJECT_DIR$/ch08-aop-aspectj1/ch08-aop-aspectj1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-spring-mybatis/ch09-spring-mybatis.iml" filepath="$PROJECT_DIR$/ch09-spring-mybatis/ch09-spring-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13-spring-web/ch13-spring-web.iml" filepath="$PROJECT_DIR$/ch13-spring-web/ch13-spring-web.iml" />
+    </modules>
+  </component>
+</project>
